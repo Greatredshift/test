@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sp_black">#FF0D0D0D</color>
+    <color name="sp_dark_surface">#FF1E1E1E</color>
+    <color name="sp_surface">#FF2C2C2C</color>
+    <color name="sp_red">#FFCC0000</color>
+    <color name="sp_orange">#FFFF6600</color>
+    <color name="sp_amber">#FFFFAA00</color>
+    <color name="sp_green">#FF00CC44</color>
+    <color name="sp_cyan">#FF00BBDD</color>
+    <color name="sp_blue">#FF2244CC</color>
+    <color name="sp_purple">#FF8822CC</color>
+    <color name="sp_text">#FFEEEEEE</color>
+    <color name="sp_text_dim">#FF888888</color>
+    <color name="sp_pad_a">#FFCC2200</color>
+    <color name="sp_pad_b">#FFCC6600</color>
+    <color name="sp_pad_c">#FFCCAA00</color>
+    <color name="sp_pad_d">#FF44CC00</color>
+    <color name="sp_pad_e">#FF00CC88</color>
+    <color name="sp_pad_f">#FF0088CC</color>
+    <color name="sp_pad_g">#FF4400CC</color>
+    <color name="sp_pad_h">#FFCC0088</color>
+    <color name="sp_pad_i">#FFCC4422</color>
+    <color name="sp_pad_j">#FF888888</color>
+</resources>

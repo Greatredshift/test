@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BeatMachine SP-404</string>
+    <string name="pads">Pads</string>
+    <string name="synth">Synth</string>
+    <string name="effects">Effects</string>
+    <string name="pattern">Pattern</string>
+    <string name="mixer">Mixer</string>
+    <string name="bpm">BPM</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="record">Rec</string>
+    <string name="bank">Bank</string>
+    <string name="load_sample">Load Sample</string>
+    <string name="clear_pad">Clear Pad</string>
+    <string name="no_sample">Empty</string>
+    <string name="master_vol">Master Vol</string>
+    <string name="swing">Swing</string>
+    <string name="steps">Steps</string>
+</resources>
